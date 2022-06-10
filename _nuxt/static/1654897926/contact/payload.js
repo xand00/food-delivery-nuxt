@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/contact", {data:[{_img:{"/food-delivery-nuxt/_ipx/_/logo.png":"\u002Ffood-delivery-nuxt\u002F_nuxt\u002Fimage\u002Ffab424.png"}}],fetch:{},mutations:void 0});
