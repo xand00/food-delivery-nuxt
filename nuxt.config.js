@@ -52,5 +52,8 @@ export default {
   target: 'static',
   generate: {
     dir: 'docs'
+  },
+  router: {
+    base: '/food-delivery-nuxt/'
   }
 }
