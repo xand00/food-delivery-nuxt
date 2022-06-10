@@ -6,7 +6,7 @@
       <h4 class="description text--secondary">Download the bella onoje's food app now on</h4>
       <app-download-buttons />
       <div class="image">
-        <img src="/phones-food-for-you-and-everyone.png" alt="">
+        <img src="phones-food-for-you-and-everyone.png" alt="">
       </div>
     </div>
 </template>

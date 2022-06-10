@@ -23,15 +23,15 @@ export default Vue.extend({
         return {
             socialMediaList: [
                 {
-                    iconPath: '/social-media-icon-list-linkedin.svg',
+                    iconPath: 'social-media-icon-list-linkedin.svg',
                     url: 'https://linkedin.com',
                 },
                 {
-                    iconPath: '/social-media-icon-list-linkedin.svg',
+                    iconPath: 'social-media-icon-list-linkedin.svg',
                     url: 'https://linkedin.com',
                 },
                 {
-                    iconPath: '/social-media-icon-list-linkedin.svg',
+                    iconPath: 'social-media-icon-list-linkedin.svg',
                     url: 'https://linkedin.com',
                 },
             ]
