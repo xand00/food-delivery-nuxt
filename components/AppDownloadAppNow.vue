@@ -67,7 +67,7 @@
           background-color: transparent;
           background-repeat: no-repeat;
           background-position: center;
-          background-image: url('/download-the-app-now/background.png');
+          background-image: url('/download-the-app-now-background.png');
 
           
         }

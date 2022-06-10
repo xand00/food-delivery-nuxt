@@ -27,7 +27,7 @@
         .background {
             width: 100%;
             @media (min-width: 64em) {            
-                background-image: url('/app-promo/background.png');
+                background-image: url('/app-promo-background.png');
                 background-repeat: no-repeat;
                 background-origin: border-box;
                 background-size: contain;
