@@ -50,9 +50,6 @@ export default {
   build: {
   },
   target: 'static',
-  generate: {
-    dir: 'docs'
-  },
   router: {
     base: '/food-delivery-nuxt/'
   }
