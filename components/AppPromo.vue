@@ -6,7 +6,7 @@
       <h4 class="description text--secondary">Download the bella onoje's food app now on</h4>
       <app-download-buttons />
       <div class="image">
-        <img src="phones-food-for-you-and-everyone.png" alt="">
+        <img src="~assets/img/app-promo/phones-food-for-you-and-everyone.png" alt="">
       </div>
     </div>
 </template>
@@ -27,7 +27,7 @@
         .background {
             width: 100%;
             @media (min-width: 64em) {            
-                background-image: url('/app-promo-background.png');
+                background-image: url('~assets/img/app-promo/background.png');
                 background-repeat: no-repeat;
                 background-origin: border-box;
                 background-size: contain;

@@ -6,7 +6,7 @@
             </div>
             <div class="social-media-list">
                 <a target="_blank" :href="socialMediaItem.url" v-for="socialMediaItem in this.socialMediaList" :key="socialMediaItem.url">
-                    <img :src="socialMediaItem.iconPath">
+                    <img :src="require(`~/assets/img/${socialMediaItem.iconPath}`)">
                 </a>
             </div>
             <div class="phrase">
@@ -23,15 +23,15 @@ export default Vue.extend({
         return {
             socialMediaList: [
                 {
-                    iconPath: 'social-media-icon-list-linkedin.svg',
+                    iconPath: 'social-media-icon-list/linkedin.svg',
                     url: 'https://linkedin.com',
                 },
                 {
-                    iconPath: 'social-media-icon-list-linkedin.svg',
+                    iconPath: 'social-media-icon-list/linkedin.svg',
                     url: 'https://linkedin.com',
                 },
                 {
-                    iconPath: 'social-media-icon-list-linkedin.svg',
+                    iconPath: 'social-media-icon-list/linkedin.svg',
                     url: 'https://linkedin.com',
                 },
             ]

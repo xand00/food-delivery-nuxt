@@ -30,7 +30,7 @@
       font-style: normal;
       font-weight: 400;
       font-display: swap;
-      src: url('~/assets/fonts/Montserrat-Regular.ttf') format('truetype');
+      src: url('~assets/fonts/Montserrat-Regular.ttf') format('truetype');
     }
 
     .unstyled {

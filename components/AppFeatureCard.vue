@@ -5,7 +5,7 @@
             <p class="title">{{ title }}</p>
             <p class="description">{{ description }}</p>
         </div>
-        <img :src="imageSrc">
+        <img :src="require(`~/assets/img/${imageSrc}`)">
     </div>
 </template>
 
